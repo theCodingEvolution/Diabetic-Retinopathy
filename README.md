@@ -167,9 +167,9 @@ epidemic.**\
 
 ***(In diabetic retinopathy)***
 
-> Deep learning and transfer learning are powerful techniques used in
-> the detection of diabetic retinopathy, a common complication of
-> diabetes that affects the retina of the eye.
+ Deep learning and transfer learning are powerful techniques used in
+ the detection of diabetic retinopathy, a common complication of
+ diabetes that affects the retina of the eye.
 
 Deep learning models, particularly convolutional neural networks (CNNs),
 have shown great promise in detecting diabetic retinopathy from retinal
