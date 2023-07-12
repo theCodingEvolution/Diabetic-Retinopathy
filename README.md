@@ -1,3 +1,5 @@
+>The project is done under Rani Rasmoni Green University ,Tarakeswar - Hooghly
+
 # Transfer Learning for DiabetesRisk Assessment: **"** **Retinal Biomarkers for Diabetes Detection:Applying Deep Learning to Retinography Analysis "**
 
 
