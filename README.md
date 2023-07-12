@@ -1,8 +1,8 @@
-#<span id="_top" class="anchor"></span>*Transfer Learning for Diabetes
-#Risk *
+# Transfer Learning for Diabetes
+# Risk 
 
-#*Assessment:* **"** **Retinal Biomarkers for Diabetes Detection:
-#Applying Deep Learning to Retinography Analysis "**
+# Assessment: **"** **Retinal Biomarkers for Diabetes Detection:
+# Applying Deep Learning to Retinography Analysis "**
 
 
 
