@@ -9,44 +9,21 @@ height="2.032638888888889in"}
 
 Report Submitted By-
 
-> Name: - Rajat Chakraborty
->
-> University Roll No.: - 21104010
->
-> Name: - Snehasish Sadhukhan
->
-> University Roll No.: - 21104014
->
-> Department of Computer Science,
+ Name: - Rajat Chakraborty
+ Name: - Snehasish Sadhukhan
+ Department of Computer Science,
 
 **Guided by–**
 
-> **Anupam Sen**
->
-> **Assistant Professor**
->
-> **Department of Computer Science,**
->
-> **Government General Degree College, Singur**
->
-> ***Table of contents***
+ **Anupam Sen**
 
-  **Sr. no.**   **Topic **                                                    **Page no. **
-  ------------- ------------------------------------------------------------- ---------------
-  **1**         Abstract                                                      **3**
-  **2**         <span id="_Hlk139196430" class="anchor"></span>Introduction   **4-5**
-  **3**         <span id="_Hlk139196463" class="anchor"></span>Related Work   **6**
-  **4**         Deep Learning                                                 **7**
-  **5**         Convolutional Neural Network                                  **8**
-  **6**         Transfer Learning Algorithms                                  **9**
-  **7**         <span id="_Hlk139196517" class="anchor"></span>Data Set       **10-11**
-  **8**         Proposed Methodology                                          **12**
-  **9**         Evaluation Matrices                                           **13**
-  **10**        Results and Analysis                                          **14-16**
-  **11**        Conclusion                                                    **17**
-  **12**        Future Work                                                   **18**
-  **13**        Reference                                                     **19**
-                                                                              
+ **Assistant Professor**
+
+ **Department of Computer Science,**
+
+ **Government General Degree College, Singur**
+
+ 
                                                                               
                                                                               
 
