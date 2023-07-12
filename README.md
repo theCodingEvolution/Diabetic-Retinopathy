@@ -205,17 +205,17 @@ algorithm that is particularly well-suited for image recognition and
 processing tasks. It is made up of multiple layers, including
 convolutional layers, pooling layers, and fully connected layers.
 
--   The construction of a convolutional neural network is a
+  The construction of a convolutional neural network is a
      multi-layered feed-forward neural network, made by assembling many
      unseen layers on top of each other in a particular order.
 
--   It is the sequential design that give permission to CNN to learn
+   It is the sequential design that give permission to CNN to learn
     > hierarchical attributes.
 
--   In CNN, some of them followed by grouping layers and hidden layers
+   In CNN, some of them followed by grouping layers and hidden layers
     are typically convolutional layers followed by activation layers.
 
--   ![](media/image2.png){width="7.775in" height="4.025in"}The
+   ![](media/image2.png){width="7.775in" height="4.025in"}The
      pre-processing needed in a ConvNet is kindred to that of the
      related pattern of neurons in the human brain and was motivated by
      the organization of the Visual Cortex.
