@@ -214,8 +214,7 @@ convolutional layers, pooling layers, and fully connected layers.
 
    In CNN, some of them followed by grouping layers and hidden layers
     are typically convolutional layers followed by activation layers.
-
-   ![](media/image2.png){width="7.775in" height="4.025in"}
+![cnn](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/24132588-9ad2-4172-b1ff-6d73ded80fc2)
    The
      pre-processing needed in a ConvNet is kindred to that of the
      related pattern of neurons in the human brain and was motivated by
