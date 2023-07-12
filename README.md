@@ -143,20 +143,20 @@ using retinography analysis. Ultimately, the findings may have
 implications for future medical practices, guiding the development of
 efficient and accurate diagnostic tools to combat the global diabetes
 epidemic.**\
-***Related WorK***
+>***Related WorK***
 
-> “Transfer Learning for Diabetic Retinopathy Detection: A Study of
+ “Transfer Learning for Diabetic Retinopathy Detection: A Study of
  Dataset Combination and Model Performance” this research was done at
  *Kuwait university*. They have used some Transfer Learning models like
  VGG16, InceptionV3, MobilenetV2, and DenseNet12.
  **[\[1\]](https://www.mdpi.com/2076-3417/13/9/5685) 
 
->  *Hagos and Kant*
+  *Hagos and Kant*
 \[[2](https://doi.org/10.48550/arXiv.1905.07203)\] showed an
  accuracy of 90.9% with a binary classification of DR with the
  InceptionV3 model .
 
-> Bagadi et al.
+ Bagadi et al.
  [\[3\]](https://link.springer.com/chapter/10.1007/978-981-16-8512-5_28)
  achieved an accuracy of 95% with the DenseNet121 model for the APTOS
  dataset in classifying the DR images .
@@ -201,7 +201,7 @@ metrics provide insights into the performance of the model in correctly
 classifying diabetic retinopathy cases. **\
 **
 
-**| Convolution Neural Networks**
+>**| Convolution Neural Networks**
 
 **A** Convolutional Neural Network (CNN) is a type of deep learning
 algorithm that is particularly well-suited for image recognition and
