@@ -112,7 +112,7 @@ project seeks to contribute to the early diagnosis and management of
 diabetes, potentially reducing the incidence of diabetes-related
 complications and improving patients' quality of life.
 
-This project will involve the following key components:
+**This project will involve the following key components:**
 
 -   **Data Collection and Preprocessing**: A comprehensive dataset of
     retinography images will be collected, including both diabetic and
@@ -146,32 +146,25 @@ epidemic.**\
 ***Related WorK***
 
 > “Transfer Learning for Diabetic Retinopathy Detection: A Study of
-> Dataset Combination and Model Performance” this research was done at
-> *Kuwait university*. They have used some Transfer Learning models like
-> VGG16, InceptionV3, MobilenetV2, and DenseNet12.
-> **[\[1\]](https://www.mdpi.com/2076-3417/13/9/5685) **
->
+ Dataset Combination and Model Performance” this research was done at
+ *Kuwait university*. They have used some Transfer Learning models like
+ VGG16, InceptionV3, MobilenetV2, and DenseNet12.
+ **[\[1\]](https://www.mdpi.com/2076-3417/13/9/5685) 
+
 >  *Hagos and Kant*
-> **\[[2](https://doi.org/10.48550/arXiv.1905.07203)\]** showed an
-> accuracy of 90.9% with a binary classification of DR with the
-> InceptionV3 model .
->
+\[[2](https://doi.org/10.48550/arXiv.1905.07203)\] showed an
+ accuracy of 90.9% with a binary classification of DR with the
+ InceptionV3 model .
+
 > Bagadi et al.
-> [**\[3\]**](https://link.springer.com/chapter/10.1007/978-981-16-8512-5_28)
-> achieved an accuracy of 95% with the DenseNet121 model for the APTOS
-> dataset in classifying the DR images .
-
+ [\[3\]](https://link.springer.com/chapter/10.1007/978-981-16-8512-5_28)
+ achieved an accuracy of 95% with the DenseNet121 model for the APTOS
+ dataset in classifying the DR images .
 “The effect of model size on accuracy”. This project also achieves great parameters of accuracy: 0.8515 - precision: 0.8517 - recall: 0.8526. [**\[4\]**](https://www.kaggle.com/code/the314arham/the-effect-of-model-size-on-accuracy/notebook#ABSTRACT)
-=========================================================================================================================================================================================================================================================
-
 “DL-Diabetic RetinopathycDetection-95%Acc-CN”[**\[5\]**.](https://www.kaggle.com/code/parisanahmadi/dl-diabetic-retinopathycdetection-95-acc-cnn#Deep-Computer-Vision) The research did built a custom CNN model and got approximately 93% of test accuracy.
-============================================================================================================================================================================================================================================================
-
 “Diabetic Retinopathy Detection and Classification**”**[**\[6\]**](https://www.kaggle.com/code/akshat0007/diabetic-retinopathy-detection-and-classification) .project uses EfficientNet as a pretrained model . It has training loss of 0.0728 accuracy of 0.9758 validation accuracy of 0.7866 .
-=================================================================================================================================================================================================================================================================================================
-
 “Deep Transfer Learning Models for Medical Diabetic Retinopathy Detection”[**\[7\].**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085308/) This research has researched extensively on AlexNet, ResNet18, SqueezeNet, GoogleNet, VGG16, and VGG19 and found AlexNet with 97% accuracy.
-=========================================================================================================================================================================================================================================================================================
+
 
 | ***Deep Learning***
 
