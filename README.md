@@ -239,25 +239,25 @@ the pretrained model.
 
 ***Names of used Transfer Learning models ***
 
-1.  **Vgg 16 (** oxford **)
+1.  **Vgg 16 (** oxford )
 
 2.  Vgg 19 (oxford)
 
-3.  **Resnet 50 (** Microsoft**)
+3.  **Resnet 50 (** Microsoft)
 
-4.  **Resnet 152 (** Microsoft **)
+4.  **Resnet 152 (** Microsoft )
 
-5.  **Resnet 152v2 (** Microsoft **)
+5.  **Resnet 152v2 (** Microsoft )
 
-6.  **Inception v3** ( Google**)
+6.  **Inception v3** ( Google)
 
-7.  **InceptionResnetv2 (** Google**)
+7.  **InceptionResnetv2 (** Google)
 
-8.  **MobileNet v2 (** Google **)
+8.  **MobileNet v2 (** Google )
 
-9.  **EfficientNetB0 (** Google Brain **)
+9.  **EfficientNetB0 (** Google Brain )
 
-10. **DenseNet121 (** Cornell University **)
+10. **DenseNet121 (** Cornell University )
 
 ***\
 * | *Data Set* **
