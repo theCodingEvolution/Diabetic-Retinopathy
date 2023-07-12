@@ -266,13 +266,12 @@ photography](https://en.wikipedia.org/wiki/Fundus_photography) under a
 variety of imaging conditions. We took the dataset from Kaggle
 [**\[8\]**](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data?select=colored_images).
 
-0 - No DR 1 – Mild 2 – Moderate 3 – <span id="_Hlk139546352"
-class="anchor"></span>Severe 4 - Proliferative DR
-
+0 - No DR 1 – Mild 2 – Moderate 3- Severe 4 - Proliferative DR
+![image](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/bdd48596-f881-4e7f-92f0-0f98e46a6aa6)
 ***Fundus Example images with each condition* :**
+![2](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/915b7262-ff06-49da-a794-49c84900a077)
 
-![](media/image4.png){width="8.150694444444444in"
-height="4.65467738407699in"}
+
 
 Our dataset contains a total of 3663 images. These images are contained
 in 5 different directories as the disease No DR Mild Moderate Severe
@@ -305,7 +304,7 @@ other complications.
 
 > ***Proposed Methodology***
 
-![](media/image14.jpeg){width="7.45in" height="7.406592300962379in"}
+
 
 **|**As the above image tells, we have preprocessed our datasets and
 transforms into two category, **DR** and **No\_DR** for accurate results
