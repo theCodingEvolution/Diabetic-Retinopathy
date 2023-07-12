@@ -239,9 +239,9 @@ the pretrained model.
 
 ***Names of used Transfer Learning models ***
 
-1.  **Vgg 16 (** oxford **)**
+1.  **Vgg 16 (** oxford **)
 
-2.  **Vgg 19 (**oxford)
+2.  Vgg 19 (oxford)
 
 3.  **Resnet 50 (** Microsoft**)
 
