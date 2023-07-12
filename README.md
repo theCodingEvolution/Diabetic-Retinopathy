@@ -24,7 +24,7 @@ Report Submitted By-
                                                                               
                                                                               
 ---------------------------------------------------------------
-> `#0969DA***Abstract*** `
+> `#0969DA***Abstract***  ``#0969DA Abstract `
 
 Diabetes is a chronic disease that affects millions of people worldwide
 and is a significant cause of morbidity and mortality. Early detection
