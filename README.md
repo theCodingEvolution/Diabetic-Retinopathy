@@ -261,8 +261,8 @@ the pretrained model.
 
 10. **DenseNet121 (** Cornell University )
 
-***\
-* | *Data Set* **
+
+>  **| Data Set**
 
 large set of retina images taken using [fundus
 photography](https://en.wikipedia.org/wiki/Fundus_photography) under a
@@ -329,7 +329,7 @@ our conclusion.
 ![3](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/a62a9a62-2052-4fcb-ae48-a41496a2d0bf)
 
 
->Results and Analysis
+>**Results and Analysis**
 
 ![1](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/a1f5e177-7fed-4f12-81d8-d1bc5a5ed89e)
 ![2](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/0a82c93f-68fb-4411-99d3-8255880afdd3)
