@@ -335,6 +335,7 @@ our conclusion.
 ![2](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/0a82c93f-68fb-4411-99d3-8255880afdd3)
 ![3](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/87fbc0e6-2e11-469d-ac7b-03835dbef8df)
 ![4](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/03199c8f-7481-4e8f-b9c5-b8f3033abfeb)
+![4](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/c82664c2-6aa1-4cec-9a67-e56151ba274c)
 
 
 ![1](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/4e563b32-e1a8-4572-8c1b-a3cf5c9f3fcb)
