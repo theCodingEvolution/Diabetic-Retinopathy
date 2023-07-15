@@ -451,7 +451,7 @@ practical utility.
 2.  [**https://arxiv.org/abs/1905.07203**](https://arxiv.org/abs/1905.07203)
 
 3.  Comparative Analysis of Different Models for Diabetic Retinopathy Classification. Lavanya Bagadi, E. Pavankumar, A. Likitha, K. Niranjan & B. Nani . **\[[Reference](https://link.springer.com/chapter/10.1007/978-981-16-8512-5_28)\]**
-    ========================================================================================================================================================================================================================================
+    
 
 4.  “The effect of model size on accuracy”.Parhaam Honolulu, Hawaii,
     United States
