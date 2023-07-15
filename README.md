@@ -302,10 +302,10 @@ advanced stage of diabetic retinopathy. It involves the growth of
 abnormal blood vessels in the retina, which can lead to vision loss and
 other complications.
 
-**\
-**
 
 > ***Proposed Methodology***
+
+
 ![pro](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/b494b226-bd07-4f84-9acf-dd27bca594e9)
 
 
