@@ -329,10 +329,18 @@ our conclusion.
 ![3](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/a62a9a62-2052-4fcb-ae48-a41496a2d0bf)
 >Results
 
+>Results and Analysis
 
->***Result and Analysis Table(After 25 Epochs):***
+![4](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/892b34db-2593-4f05-ba08-c3fed41aafba)
 
- ![5](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/d716720a-a19e-4b13-be56-2e85e2075256)
+![1](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/4e563b32-e1a8-4572-8c1b-a3cf5c9f3fcb)
+
+![2](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/a4a42b2f-55ba-460e-90a3-be7a15
+
+![3](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/13a62976-3db1-4110-b06f-715ccf764914)
+![5](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/7b1f59f2-f364-4d44-b7e9-8b7906c3d43d)
+
+
 
 The python libraries such as TensorFlow
 [**\[9\]**](https://www.tensorflow.org/guide) and keras Tuner
