@@ -306,6 +306,7 @@ other complications.
 **
 
 > ***Proposed Methodology***
+![pro](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/b494b226-bd07-4f84-9acf-dd27bca594e9)
 
 
 
@@ -322,51 +323,11 @@ our conclusion.
 
 > ***Evaluation Metrices***
 
-***Training Loss vs Validation Loss:***
-
-Loss measures model performance on training data, while validation loss
-evaluates performance on unseen data. Decreasing loss and validation
-loss simultaneously indicates good model learning. Increasing validation
-loss while decreasing loss suggests overfitting, requiring adjustments.
-
-***Training Accuracy:*** ***Validation Accuracy:***
-
-***Test Accuracy:*** ***Test Loss:* *Precision***:
-
-***Recall:*** ***F1 Score:***
-
-![](media/image34.png){width="7.552403762029746in"
-height="10.355555555555556in"}
+![3](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/97096b70-46fb-4532-9b57-98885e3e4d09)
 
 ***Result and Analysis Table(After 25 Epochs):***
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Model Name**      **Training Loss**   **Training Accuracy**   **Validation**   **Validation**   **Test Loss**   **Test Accuracy**   **precision**   **Recall**   **F1 Score**
-                                                                                                                                                                     
-                                                                  **Loss**         **Accuracy**                                                                      
-  ------------------- ------------------- ----------------------- ---------------- ---------------- --------------- ------------------- --------------- ------------ --------------
-  Vgg16               **0.1033**          **96.64%**              **0.1088**       **95.86%**       **0.1115**      95.73%              95.82%          95.68%       **95.74%**
-
-  Vgg19               **0.1222**          **95.82%**              **0.1201**       **95.51%**       **0.1218**      95.82%              95.91%          95.73%       **95.81%**
-
-  Resnet 50           **0.2445**          **91.27%**              **0.2340**       **91.37%**       **0.2662**      90.88%              90.97%          90.93%       **90.94%**
-
-  Resnet 152          **0.3246**          **87.47%**              **0.2738**       **88.99%**       **0.2743**      88.92%              88.92%          88.92%       **88.92%**
-
-  Resnet 152V2        **0.0817**          **98.60%**              **0.1321**       **97.41%**       **0.0965**      98.34%              98.74%          97.67%       **98.20%**
-
-  InceptionV3         **0.1156**          **96.85%**              **0.1532**       **96.35%**       **0.1246**      96.68%              96.01%          97.60        **96.79%**
-
-  InceptionResnetV2   **0.1754**          **95.91%**              **0.1173**       **96.77%**       **0.1149**      96.58%              96.58%          96.53%       **96.55%**
-
-  mobilenetV2         **0.1683**          **97.25%**              **0.2046**       **96.98%**       **0.2318**      96.53%              95.78%          97.06%       **96.41%**
-
-  Efficient           **0.7384**          **54.32%**              **0.9335**       **48.60%**       **0.9279**      48.96%              48.96%          48.96%       **48.96%**
-                                                                                                                                                                     
-  NetB0                                                                                                                                                              
-
-  Dense Net121        **0.1031**          **97.43%**              **0.0733**       **97.55%**       **0.0771**      97.39%              97.43%          97.29%       **97.35%**
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![5](https://github.com/theCodingEvolution/Diabetic-Retinopathy/assets/79836493/d716720a-a19e-4b13-be56-2e85e2075256)
 
 The python libraries such as TensorFlow
 [**\[9\]**](https://www.tensorflow.org/guide) and keras Tuner
