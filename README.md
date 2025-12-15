@@ -9,19 +9,10 @@ Report Submitted By-
       
       Name: - Rajat Chakraborty
       
-      Name: - Snehasish Sadhukhan
-      
       Department of Computer Science,
 
-**Guided by–**
+      Rani Rashmoni Green University
 
- **Anupam Sen**
-
- **Assistant Professor**
-
- **Department of Computer Science,**
-
- **Government General Degree College, Singur**
 
  
                                                                               
